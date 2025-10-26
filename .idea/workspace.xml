@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6220fc92-f28a-4f40-b38d-e05d83e959d6" name="Changes" comment="Updated the boilerplate" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sureshj419/RNFlix.git",
+    "accountId": "a7b8f64e-2c4e-43ff-a95c-c2750a405f89"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="34cNtQAv41YkSZ6l11ICzJdwSFb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/sureshjallipalli/WebstormProjects/RNFlix",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/Users/sureshjallipalli/WebstormProjects/RNFlix/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.26830.93" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6220fc92-f28a-4f40-b38d-e05d83e959d6" name="Changes" comment="" />
+      <created>1761509113137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761509113137</updated>
+      <workItem from="1761509114194" duration="4211000" />
+      <workItem from="1761513362674" duration="4761000" />
+    </task>
+    <task id="LOCAL-00001" summary="Updated the boilerplate">
+      <option name="closed" value="true" />
+      <created>1761515263008</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761515263008</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated the boilerplate">
+      <option name="closed" value="true" />
+      <created>1761515374127</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761515374127</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated the boilerplate">
+      <option name="closed" value="true" />
+      <created>1761515490458</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761515490458</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated the boilerplate">
+      <option name="closed" value="true" />
+      <created>1761515773906</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761515773906</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated the boilerplate">
+      <option name="closed" value="true" />
+      <created>1761515857302</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761515857302</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updated the boilerplate">
+      <option name="closed" value="true" />
+      <created>1761516762382</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761516762382</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated the boilerplate">
+      <option name="closed" value="true" />
+      <created>1761516811933</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761516811933</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated the boilerplate">
+      <option name="closed" value="true" />
+      <created>1761516827881</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761516827881</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated the boilerplate">
+      <option name="closed" value="true" />
+      <created>1761516837152</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761516837152</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updated the boilerplate">
+      <option name="closed" value="true" />
+      <created>1761516847582</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761516847582</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updated the boilerplate">
+      <option name="closed" value="true" />
+      <created>1761516913904</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1761516913904</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Updated the boilerplate">
+      <option name="closed" value="true" />
+      <created>1761517065150</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1761517065150</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Updated the boilerplate">
+      <option name="closed" value="true" />
+      <created>1761517230951</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1761517230951</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit&#10;&#10;Generated by create-expo-app 3.5.3." />
+    <MESSAGE value="Updated the boilerplate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the boilerplate" />
+  </component>
+</project>
