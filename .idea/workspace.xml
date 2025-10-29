@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6220fc92-f28a-4f40-b38d-e05d83e959d6" name="Changes" comment="Updated the boilerplate" />
+    <list default="true" id="6220fc92-f28a-4f40-b38d-e05d83e959d6" name="Changes" comment="Updated the boilerplate">
+      <change afterPath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(tabs)/profile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(tabs)/saved.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(tabs)/search.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/movies/[id].tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/SpaceMono-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/save.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/highlight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/rankingGradient.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/readme/hero.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/readme/jsmpro.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/readme/videokit.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/SearchBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/icons.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/images.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfaces/interfaces.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/images.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/movie/[id].tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/onboarding.tsx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,15 +60,15 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {}
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sureshj419/RNFlix.git",
-    "accountId": "a7b8f64e-2c4e-43ff-a95c-c2750a405f89"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sureshj419/RNFlix.git&quot;,
+    &quot;accountId&quot;: &quot;a7b8f64e-2c4e-43ff-a95c-c2750a405f89&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
@@ -57,19 +90,25 @@
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "/Users/sureshjallipalli/WebstormProjects/RNFlix",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.sourceCode.TypeScript",
     "to.speed.mode.migration.done": "true",
     "ts.external.directory.path": "/Users/sureshjallipalli/WebstormProjects/RNFlix/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/(tabs)" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -87,7 +126,8 @@
       <option name="presentableId" value="Default" />
       <updated>1761509113137</updated>
       <workItem from="1761509114194" duration="4211000" />
-      <workItem from="1761513362674" duration="4761000" />
+      <workItem from="1761513362674" duration="10946000" />
+      <workItem from="1761686867674" duration="8951000" />
     </task>
     <task id="LOCAL-00001" summary="Updated the boilerplate">
       <option name="closed" value="true" />
@@ -193,7 +233,47 @@
       <option name="project" value="LOCAL" />
       <updated>1761517230951</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Updated the boilerplate">
+      <option name="closed" value="true" />
+      <created>1761518194988</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1761518194988</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Updated the boilerplate">
+      <option name="closed" value="true" />
+      <created>1761518205179</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1761518205179</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Updated the boilerplate">
+      <option name="closed" value="true" />
+      <created>1761518209117</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1761518209117</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Updated the boilerplate">
+      <option name="closed" value="true" />
+      <created>1761518268260</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1761518268260</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Updated the boilerplate">
+      <option name="closed" value="true" />
+      <created>1761518281238</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1761518281238</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +292,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit&#10;&#10;Generated by create-expo-app 3.5.3." />
+    <MESSAGE value="Change project name to RNFlix&#10;&#10;Updated project name from Expo app to RNFlix app." />
     <MESSAGE value="Updated the boilerplate" />
     <option name="LAST_COMMIT_MESSAGE" value="Updated the boilerplate" />
   </component>
